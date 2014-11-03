@@ -5,7 +5,7 @@ import fabric.contrib.project as project
 env.hosts = ["192.81.133.96"]
 env.user = "root"
 env.colorize_errors = True
-env.local_output = "_site/"
+env.local_output = "_site/?/blog/"
 env.remote_output = "/opt/blog.tankywoo.com/"
 env.rsync_delete = False
 
