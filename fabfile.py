@@ -26,6 +26,6 @@ def deploy():
 
     project.rsync_project(
         local_dir=env.local_output,
-        remote_dir=env.remote_output.rstrip("/?/blog") + "/?/blog",
+        remote_dir=env.remote_output.rstrip("/?/blog/") + "/?/blog/",
         delete=env.rsync_delete
     )
