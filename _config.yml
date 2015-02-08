@@ -1,6 +1,6 @@
-name: "易观博客"
+name: "麦谷糖"
 description: "Tanky Woo's Blog, focus on Python, Linux, Gentoo, Mac OS, Vim, Open Source and so on."
-url: "https://692.github.io"
+url: "http://blog.fjvi.xyz"
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 exclude: ["fabfile.py*", "*.bak"]

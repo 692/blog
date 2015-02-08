@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="pagetitle"><h2>{{ page.title }}</h2></div>
 <small><p class="meta">{{ page.date | date_to_string }}
-{% if page.categories %}
+{% if page.categories == blank %}
 | {{ page.categories }}
 {% endif %}</p></small>
 
@@ -14,7 +14,7 @@ layout: default
 <!-- Duoshuo Comment BEGIN -->
 <div class="ds-thread"></div>
 <script type="text/javascript">
-var duoshuoQuery = {short_name:"techwutianqicom"};
+var duoshuoQuery = {short_name:"692"};
     (function() {
         var ds = document.createElement('script');
         ds.type = 'text/javascript';ds.async = true;
