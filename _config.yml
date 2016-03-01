@@ -1,0 +1,6 @@
+name: "易_692"
+description: "Tanky Woo's Blog, focus on Python, Linux, Gentoo, Mac OS, Vim, Open Source and so on."
+url: "https://692.github.io"
+markdown: redcarpet
+highlighter: rouge
+exclude: ["fabfile.py*", "*.bak"]
