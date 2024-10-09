@@ -3,7 +3,7 @@
     "title": "MGTang",
     "author": "BY <mgtang692@gmail.com",
     "version": "1.7.0",
-    "homepage": "http://692.github.io/blog",
+    "homepage": "/blog",
     "repository": {
         "type": "git",
         "url": "https://github.com/692/blog"
@@ -26,7 +26,3 @@
         "cafe"   : "git co gitcafe-pages; git merge master; git push gitcafe gitcafe-pages:gitcafe-pages --tag; git co master;"
     }
 }
-{
-    ...
-    "homepage": "."
-    }
