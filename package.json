@@ -3,7 +3,7 @@
     "title": "MGTang",
     "author": "BY <mgtang692@gmail.com",
     "version": "1.7.0",
-    "homepage": "/blog",
+    "homepage": "/blog/",
     "repository": {
         "type": "git",
         "url": "https://github.com/692/blog"
