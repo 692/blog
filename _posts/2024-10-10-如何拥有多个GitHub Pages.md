@@ -2,21 +2,13 @@
 layout: post
 title: "如何拥有多个GitHub Pages"
 subtitle: 'GitHub Pages 项目站点及绑定子域名的方法记录'
-date: 2024-10-10 16:55:00
+date: 2024-10-10
 author: "Mike Lyou"
-header-style: text
-#header-img: "img/dream-catcher-902508_1920.jpg"
-mathjax: false
+header-img: img/post-bg-cook.jpg
 catalog: true
-copyright-statement: CC BY-NC-SA
-hidden: false
-excerpt: 本文记录了GitHub Pages项目站点的创建、子域名的DNS配置和绑定方法。
 tags:
  - GitHub Pages
-
 ---
-
-<!-- more -->
 
 今天突发奇想，想要尝试在自己仅有的一个 GitHub 账号下创建多个 GitHub Pages，并将其部署在子域名上。没想到在网上搜索了一下后，发现真的可以做到。本文记录了配置的过程，希望能帮助到有同样需求的人。阅读本文前，请确保你已经创建过自己的 GitHub Pages，如果没有可以参考我的[这篇博文](https://blog.mikelyou.com/2019/12/27/hello-world/)。
 
