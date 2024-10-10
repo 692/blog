@@ -6,7 +6,7 @@ email: mgtang692@gmail.com
 description: "生生不息，止于至善."
 keyword: "MGT'blog, mgtang, 麦谷堂, iOS, Apple, iPhone"
 url: "http://692.github.io/blog/"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "./"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
