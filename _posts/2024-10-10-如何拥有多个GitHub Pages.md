@@ -4,7 +4,7 @@ title: "如何拥有多个GitHub Pages"
 subtitle: 'GitHub Pages 项目站点及绑定子域名的方法记录'
 date: 2024-10-10
 author: "Mike Lyou"
-header-img: img/post-bg-desk
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - GitHub
