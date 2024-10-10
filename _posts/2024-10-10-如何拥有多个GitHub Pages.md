@@ -7,9 +7,10 @@ author: "Mike Lyou"
 header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
-    - GitHub
+    - GitHub Pages
     - 博客
 ---
+>[文章来源：Mike Lyou Blog](https://blog.mikelyou.com/2020/07/22/github-pages-project-sites/)
 
 今天突发奇想，想要尝试在自己仅有的一个 GitHub 账号下创建多个 GitHub Pages，并将其部署在子域名上。没想到在网上搜索了一下后，发现真的可以做到。本文记录了配置的过程，希望能帮助到有同样需求的人。阅读本文前，请确保你已经创建过自己的 GitHub Pages，如果没有可以参考我的[这篇博文](https://blog.mikelyou.com/2019/12/27/hello-world/)。
 
@@ -110,7 +111,7 @@ tags:
 
 > 本文亦转载于 [知乎](https://zhuanlan.zhihu.com/p/183977963) 、[简书](https://www.jianshu.com/p/556e9b661064) 和 [微信公众号](https://mp.weixin.qq.com/s?__biz=MzAxMjgzMjUzMg==&mid=2652035251&idx=1&sn=fd4da473279fbb15fde61a5bd04207b7&chksm=804da2c8b73a2bded670e8e93fef0204f7a750ce22959d45f4d78f0f7da6a66b17fbf768da17&scene=126&sessionid=1597417045&key=afadcd447ba5fcc05abc2e99eaf8f59210ce306f36c44994f81af96f783603161c969d4a38e178af3a5e863adb8aefa37c5dfda0c3c8f9a86ea6b29f76a3c2ef7cc3c1d5bc6b1f7665cd4367540a9e557f3611fd10d1f01434aa23455dafb8b03183b99864eabec7f9c50cb07326ab82187524d1d59d7bcc580b8ddc9e2348e8&ascene=1&uin=MTU1MTU4MzkzNw%3D%3D)
 
-[文章来源](https://blog.mikelyou.com/2020/07/22/github-pages-project-sites/)
+
 
 ## 参考文献 
 
