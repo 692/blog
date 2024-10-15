@@ -1,6 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/692/blog</id><title>RSS feed of 692's blog</title><updated>2024-10-15T13:17:47.332948+00:00</updated><link href="https://github.com/692/blog"/><link href="https://raw.githubusercontent.com/692/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/692/blog/issues/4</id><title>123456789123456789</title><updated>2024-10-15T13:17:47.535623+00:00</updated><content type="html"><![CDATA[<p>123456789987654321</p>
-]]></content><link href="https://github.com/692/blog/issues/4"/><category term="博客"/><published>2024-10-15T10:05:52+00:00</published></entry><entry><id>https://github.com/692/blog/issues/3</id><title>文章标题</title><updated>2024-10-15T13:17:47.620324+00:00</updated><content type="html"><![CDATA[<hr />
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/692/blog</id><title>RSS feed of 692's blog</title><updated>2024-10-15T14:06:42.344164+00:00</updated><link href="https://github.com/692/blog"/><link href="https://raw.githubusercontent.com/692/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/692/blog/issues/8</id><title>fhggdjhtrj hfgsh</title><updated>2024-10-15T14:06:42.576071+00:00</updated><content type="html"><![CDATA[<hr />
+<h2>layout:     post
+title:      &quot;dfhgdr  &quot;
+date:       2024-10-15 12:00:00
+author:     &quot;MGTA&quot;
+header-img: &quot;img/post-bg-2015.jpg&quot;
+catalog: true
+tags:
+- 博客</h2>
+<p>fdgrteh fdsghd</p>
+]]></content><link href="https://github.com/692/blog/issues/8"/><category term="博客"/><published>2024-10-15T14:06:16+00:00</published></entry><entry><id>https://github.com/692/blog/issues/4</id><title>这是啥啊啊啊</title><updated>2024-10-15T14:06:42.679740+00:00</updated><content type="html"><![CDATA[<p>123456789987654321</p>
+]]></content><link href="https://github.com/692/blog/issues/4"/><category term="博客"/><published>2024-10-15T10:05:52+00:00</published></entry><entry><id>https://github.com/692/blog/issues/3</id><title>文章标题</title><updated>2024-10-15T14:06:42.780240+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
@@ -26,7 +36,7 @@ tags:
 文章内容
 文章内容
 文章内容</p>
-]]></content><link href="https://github.com/692/blog/issues/3"/><category term="博客"/><published>2024-10-15T09:59:05+00:00</published></entry><entry><id>https://github.com/692/blog/issues/2</id><title>测试文章</title><updated>2024-10-15T13:17:47.710273+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/3"/><category term="博客"/><published>2024-10-15T09:59:05+00:00</published></entry><entry><id>https://github.com/692/blog/issues/2</id><title>测试文章</title><updated>2024-10-15T14:06:42.909157+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
@@ -38,7 +48,7 @@ tags:
 <p>撒旦发个疯狗二哥热水偶噶第三个人工费eg</p>
 <p>yijdfafd很快就应该发i时间
 受到广泛是给给</p>
-]]></content><link href="https://github.com/692/blog/issues/2"/><category term="博客"/><published>2024-10-15T09:38:17+00:00</published></entry><entry><id>https://github.com/692/blog/issues/1</id><title>测试非官方的</title><updated>2024-10-15T13:17:47.792235+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/2"/><category term="博客"/><published>2024-10-15T09:38:17+00:00</published></entry><entry><id>https://github.com/692/blog/issues/1</id><title>测试非官方的</title><updated>2024-10-15T14:06:43.018398+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
