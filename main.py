@@ -15,7 +15,7 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
-BACKUP_DIR = "BACKUP"
+BACKUP_DIR = "_posts"
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = ["Top"]
 TODO_ISSUES_LABELS = ["TODO"]
