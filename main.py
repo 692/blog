@@ -301,7 +301,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
 
 def save_issue(issue, me, dir_name=BACKUP_DIR):
     md_name = os.path.join(
-        dir_name, f"{issue.start_date}_{issue.title.replace('/', '-').replace(' ', '.')}.md"
+        dir_name, f"2024-10-16-{issue.title.replace('/', '-').replace(' ', '.')}.md"
     )
     with open(md_name, "w") as f:
         #f.write(f"# [{issue.title}]({issue.html_url})\n\n")
