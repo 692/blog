@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/692/blog</id><title>RSS feed of 692's blog</title><updated>2024-10-15T18:46:20.872176+00:00</updated><link href="https://github.com/692/blog"/><link href="https://raw.githubusercontent.com/692/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/692/blog/issues/8</id><title>这是标题</title><updated>2024-10-15T18:46:21.232210+00:00</updated><content type="html"><![CDATA[<hr />
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/692/blog</id><title>RSS feed of 692's blog</title><updated>2024-10-15T18:52:27.208295+00:00</updated><link href="https://github.com/692/blog"/><link href="https://raw.githubusercontent.com/692/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/692/blog/issues/8</id><title>这是标题</title><updated>2024-10-15T18:52:27.436608+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot;dfhgdr  &quot;
 date:       2024-10-15 12:00:00
@@ -9,8 +9,8 @@ catalog: true
 tags:
 - 博客</h2>
 <p>fdgrteh fdsghd</p>
-]]></content><link href="https://github.com/692/blog/issues/8"/><category term="博客"/><published>2024-10-15T14:06:16+00:00</published></entry><entry><id>https://github.com/692/blog/issues/4</id><title>这是啥啊啊啊</title><updated>2024-10-15T18:46:21.422319+00:00</updated><content type="html"><![CDATA[<p>123456789987654321</p>
-]]></content><link href="https://github.com/692/blog/issues/4"/><category term="博客"/><published>2024-10-15T10:05:52+00:00</published></entry><entry><id>https://github.com/692/blog/issues/3</id><title>文章标题</title><updated>2024-10-15T18:46:21.568198+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/8"/><category term="博客"/><published>2024-10-15T14:06:16+00:00</published></entry><entry><id>https://github.com/692/blog/issues/4</id><title>这是啥啊啊啊</title><updated>2024-10-15T18:52:27.533814+00:00</updated><content type="html"><![CDATA[<p>123456789987654321</p>
+]]></content><link href="https://github.com/692/blog/issues/4"/><category term="博客"/><published>2024-10-15T10:05:52+00:00</published></entry><entry><id>https://github.com/692/blog/issues/3</id><title>文章标题</title><updated>2024-10-15T18:52:27.634267+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
@@ -36,7 +36,7 @@ tags:
 文章内容
 文章内容
 文章内容</p>
-]]></content><link href="https://github.com/692/blog/issues/3"/><category term="博客"/><published>2024-10-15T09:59:05+00:00</published></entry><entry><id>https://github.com/692/blog/issues/2</id><title>测试文章</title><updated>2024-10-15T18:46:21.720130+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/3"/><category term="博客"/><published>2024-10-15T09:59:05+00:00</published></entry><entry><id>https://github.com/692/blog/issues/2</id><title>测试文章</title><updated>2024-10-15T18:52:27.729300+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
@@ -48,7 +48,7 @@ tags:
 <p>撒旦发个疯狗二哥热水偶噶第三个人工费eg</p>
 <p>yijdfafd很快就应该发i时间
 受到广泛是给给</p>
-]]></content><link href="https://github.com/692/blog/issues/2"/><category term="博客"/><published>2024-10-15T09:38:17+00:00</published></entry><entry><id>https://github.com/692/blog/issues/1</id><title>测试非官方的</title><updated>2024-10-15T18:46:21.878745+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/2"/><category term="博客"/><published>2024-10-15T09:38:17+00:00</published></entry><entry><id>https://github.com/692/blog/issues/1</id><title>测试非官方的</title><updated>2024-10-15T18:52:27.856405+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
@@ -56,12 +56,32 @@ author:     &quot;MGTA&quot;
 header-img: &quot;img/post-bg-2015.jpg&quot;
 catalog: true
 tags:
-- 博客</h2>
-<p>梵蒂冈反对
-测试
-测试
-测试
-测试
-测试
-测试</p>
-]]></content><link href="https://github.com/692/blog/issues/1"/><category term="博客"/><published>2024-10-15T09:29:58+00:00</published></entry></feed>
+- GitHub</h2>
+<h1>方法一：修改 Hosts 文件</h1>
+<p>Hosts路径： </p>
+<pre><code class="language-md">C:\Windows\System32\drivers\etc\hosts
+</code></pre>
+<pre><code class="language-md">140.82.113.3 github.com
+140.82.114.4 gist.github.com
+185.199.108.133 assets-cdn.github.com
+151.101.184.133 raw.githubusercontent.com
+151.101.185.194 gist.githubusercontent.com
+</code></pre>
+<h1>方法二：DNS 解析</h1>
+<p>使用一些公共的 DNS 服务，如 Google 的 8.8.8.8。
+刷新 DNS 缓存： 执行命令刷新 DNS 缓存，确保新的 DNS 设置生效。
+在 Windows 上，打开命令提示符，运行：</p>
+<pre><code class="language-md">ipconfig /flushdns
+</code></pre>
+<p>重新访问 GitHub： 重新尝试访问 GitHub，看看是否已经可以正常访问了。</p>
+<blockquote>
+<p>示例：使用 curl 命令通过指定 DNS 服务器访问 GitHub:</p>
+</blockquote>
+<pre><code class="language-md">curl --dns-servers 8.8.8.8 https://github.com
+</code></pre>
+<h1>方法三：GitHub 官方镜像</h1>
+<p>GitHub 官方提供了一些镜像站点，这些站点是在全球范围内分布的，可以帮助用户更快速地访问 GitHub。你可以通过替换 GitHub 地址中的 github.com 部分来访问镜像站点，如 github.com.cnpmjs.org。</p>
+<h1>示例：使用 curl 命令通过 GitHub 镜像站点访问 GitHub：</h1>
+<pre><code class="language-md">curl https://github.com.cnpmjs.org
+</code></pre>
+]]></content><link href="https://github.com/692/blog/issues/1"/><category term="博客"/><category term="GitHub"/><published>2024-10-15T09:29:58+00:00</published></entry></feed>
