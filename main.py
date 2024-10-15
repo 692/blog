@@ -300,9 +300,8 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
 
 
 def save_issue(issue, me, dir_name=BACKUP_DIR):
-    var time = new Date().Format(“yyyy-MM-dd”)
     md_name = os.path.join(
-        dir_name, f"{Date}-{issue.title.replace('/', '-').replace(' ', '.')}.md"
+        dir_name, f"{issue.yyyy-MM-dd}-{issue.title.replace('/', '-').replace(' ', '.')}.md"
     )
     with open(md_name, "w") as f:
         #f.write(f"# [{issue.title}]({issue.html_url})\n\n")
