@@ -4,13 +4,13 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 [RSS Feed](https://raw.githubusercontent.com/692/blog/master/feed.xml)
 
 ## 最近更新
-- [fhggdjhtrj hfgsh](https://github.com/692/blog/issues/8)--2024-10-15
+- [这是标题](https://github.com/692/blog/issues/8)--2024-10-15
 - [这是啥啊啊啊](https://github.com/692/blog/issues/4)--2024-10-15
 - [文章标题](https://github.com/692/blog/issues/3)--2024-10-15
 - [测试文章](https://github.com/692/blog/issues/2)--2024-10-15
 - [测试非官方的](https://github.com/692/blog/issues/1)--2024-10-15
 ## 博客
-- [fhggdjhtrj hfgsh](https://github.com/692/blog/issues/8)--2024-10-15
+- [这是标题](https://github.com/692/blog/issues/8)--2024-10-15
 - [这是啥啊啊啊](https://github.com/692/blog/issues/4)--2024-10-15
 - [文章标题](https://github.com/692/blog/issues/3)--2024-10-15
 - [测试文章](https://github.com/692/blog/issues/2)--2024-10-15
