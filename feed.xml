@@ -1,5 +1,183 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/692/blog</id><title>RSS feed of 692's blog</title><updated>2024-10-15T19:19:58.340493+00:00</updated><link href="https://github.com/692/blog"/><link href="https://raw.githubusercontent.com/692/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/692/blog/issues/8</id><title>这是标题</title><updated>2024-10-15T19:19:58.574393+00:00</updated><content type="html"><![CDATA[<hr />
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/692/blog</id><title>RSS feed of 692's blog</title><updated>2024-10-29T20:18:45.255363+00:00</updated><link href="https://github.com/692/blog"/><link href="https://raw.githubusercontent.com/692/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/692/blog/issues/11</id><title>cloudflare优选域名备份</title><updated>2024-10-29T20:18:45.465355+00:00</updated><content type="html"><![CDATA[<hr />
+<h2>layout:     post
+title:      &quot;cloudflare优选域名存档&quot;
+date:       2024-10-29 12:00:00
+author:     &quot;MGTA&quot;
+header-img: &quot;img/post-bg-2015.jpg&quot;
+catalog: true
+tags:
+- 技术</h2>
+<p>TOKEN auto sd123456
+HOST vless.admin-b03.workers.dev
+UUID 90cd4a77-141a-43c9-991b-08263cfe9c10
+PATH /?ed=2048</p>
+<p>ADD
+ADDAPI
+ADDNOTLS
+ADDNOTLSAPI</p>
+<p>NOTLS true</p>
+<p>SUBCONFIG</p>
+<p>ADD
+cf.090227.xyz#优选官方线路</p>
+<p>ADDAPI
+<a href="https://cn.xxxxxxxx.tk">https://cn.xxxxxxxx.tk</a>
+<a href="https://ct.xxxxxxxx.tk">https://ct.xxxxxxxx.tk</a>
+<a href="https://cm.xxxxxxxx.tk">https://cm.xxxxxxxx.tk</a>
+<a href="https://cu.xxxxxxxx.tk">https://cu.xxxxxxxx.tk</a>
+<a href="https://cnv6.xxxxxxxx.tk">https://cnv6.xxxxxxxx.tk</a></p>
+<p><a href="https://cuv6.xxxxxxxx.tk">https://cuv6.xxxxxxxx.tk</a>
+<a href="https://cmv6.xxxxxxxx.tk">https://cmv6.xxxxxxxx.tk</a>
+<a href="https://ctv6.xxxxxxxx.tk">https://ctv6.xxxxxxxx.tk</a></p>
+<p>ADDNOTLS</p>
+<p>bestcf.onecf.eu.org#官方优选域名-Mingyu大佬提供维护
+bestproxy.onecf.eu.org#反代优选域名-Mingyu大佬提供维护
+cfip.xxxxxxxx.tk#官方优选域名-OTC大佬提供维护
+proxy.xxxxxxxx.tk#反代优选域名-OTC大佬提供维护
+acjp2.cloudflarest.link:2052#反代优选域名-KJKKK大佬提供维护
+acsg.cloudflarest.link:2052#反代优选域名-KJKKK大佬提供维护
+acsg3.cloudflarest.link:2052#反代优选域名-KJKKK大佬提供维护
+xn--b6gac.eu.org#↗↘↗.eu.org官方优选域名
+cdn-all.xn--b6gac.eu.org#cdn-all.↗↘↗.eu.org官方优选域名
+cdn-b100.xn--b6gac.eu.org#cdn-b100.↗↘↗.eu.org反代优选域名
+time.cloudflare.com
+shopify.com
+time.is
+icook.hk
+icook.tw
+ip.sb
+japan.com
+malaysia.com
+russia.com
+singapore.com
+skk.moe
+<a href="http://www.visa.com">www.visa.com</a>
+<a href="http://www.visa.com.sg">www.visa.com.sg</a>
+<a href="http://www.visa.com.hk">www.visa.com.hk</a>
+<a href="http://www.visa.com.tw">www.visa.com.tw</a>
+<a href="http://www.visa.co.jp">www.visa.co.jp</a>
+<a href="http://www.visakorea.com">www.visakorea.com</a>
+<a href="http://www.gco.gov.qa">www.gco.gov.qa</a>
+<a href="http://www.gov.se">www.gov.se</a>
+<a href="http://www.gov.ua">www.gov.ua</a>
+<a href="http://www.digitalocean.com">www.digitalocean.com</a>
+<a href="http://www.csgo.com">www.csgo.com</a>
+<a href="http://www.shopify.com">www.shopify.com</a>
+<a href="http://www.whoer.net">www.whoer.net</a>
+<a href="http://www.whatismyip.com">www.whatismyip.com</a>
+<a href="http://www.ipget.net">www.ipget.net</a>
+<a href="http://www.hugedomains.com">www.hugedomains.com</a>
+<a href="http://www.udacity.com">www.udacity.com</a>
+<a href="http://www.4chan.org">www.4chan.org</a>
+<a href="http://www.okcupid.com">www.okcupid.com</a>
+<a href="http://www.glassdoor.com">www.glassdoor.com</a>
+<a href="http://www.udemy.com">www.udemy.com</a>
+alejandracaiccedo.com
+nc.gocada.co
+log.bpminecraft.com
+<a href="http://www.boba88slot.com">www.boba88slot.com</a>
+gur.gov.ua
+<a href="http://www.zsu.gov.ua">www.zsu.gov.ua</a>
+<a href="http://www.iakeys.com">www.iakeys.com</a>
+<a href="http://www.d-555.com">www.d-555.com</a>
+fbi.gov</p>
+<p>ADDNOTLSAPI</p>
+<p><a href="https://ipdb.api.030101.xyz/?type=bestcf&amp;country=true">https://ipdb.api.030101.xyz/?type=bestcf&amp;country=true</a>
+<a href="https://ipdb.api.030101.xyz/?type=bestproxy&amp;country=true">https://ipdb.api.030101.xyz/?type=bestproxy&amp;country=true</a>
+<a href="https://addressesapi.090227.xyz/CloudFlareYes">https://addressesapi.090227.xyz/CloudFlareYes</a>
+<a href="https://addressesapi.090227.xyz/cmcc-ipv6">https://addressesapi.090227.xyz/cmcc-ipv6</a></p>
+]]></content><link href="https://github.com/692/blog/issues/11"/><category term="博客"/><published>2024-10-29T20:11:54+00:00</published></entry><entry><id>https://github.com/692/blog/issues/10</id><title>他拉锯</title><updated>2024-10-29T20:18:45.587895+00:00</updated><content type="html"><![CDATA[<hr />
+<h2>layout:     post
+title:      &quot; 急急忙忙&quot;
+date:       2024-10-15 12:00:00
+author:     &quot;MGTA&quot;
+header-img: &quot;img/post-bg-2015.jpg&quot;
+catalog: true
+tags:
+- 博客</h2>
+<p>竭尽所能
+LOL</p>
+]]></content><link href="https://github.com/692/blog/issues/10"/><category term="博客"/><published>2024-10-16T03:02:46+00:00</published></entry><entry><id>https://github.com/692/blog/issues/9</id><title>cloudflare优选域名</title><updated>2024-10-29T20:18:45.679927+00:00</updated><content type="html"><![CDATA[<hr />
+<h2>layout:     post
+title:      &quot;cloudflare优选域名&quot;
+date:       2024-10-15 12:00:00
+author:     &quot;MGTA&quot;
+header-img: &quot;img/home-bg.jpg&quot;
+catalog: true
+tags:
+- 技术</h2>
+<p><a href="https://cf.090227.xyz%E7%BB%B4%E6%8A%A4%E7%9A%84%E4%BC%98%E9%80%89%E5%AE%98%E6%96%B9%E5%9F%9F%E5%90%8D">https://cf.090227.xyz维护的优选官方域名</a>
+cf.090227.xyz#三网自适应分流官方优选
+ct.090227.xyz#电信官方优选
+cmcc.090227.xyz#移动官方优选</p>
+<hr />
+<p>常用的优选官方域名
+shopify.com
+time.is
+icook.hk
+icook.tw
+ip.sb
+japan.com
+malaysia.com
+russia.com
+singapore.com
+skk.moe
+<a href="http://www.visa.com.sg">www.visa.com.sg</a>
+<a href="http://www.visa.com.hk">www.visa.com.hk</a>
+<a href="http://www.visa.com.tw">www.visa.com.tw</a>
+<a href="http://www.visa.co.jp">www.visa.co.jp</a>
+<a href="http://www.visakorea.com">www.visakorea.com</a>
+<a href="http://www.gco.gov.qa">www.gco.gov.qa</a>
+<a href="http://www.gov.se">www.gov.se</a>
+<a href="http://www.gov.ua">www.gov.ua</a></p>
+<hr />
+<p>第三方维护的优选官方域名（未备注出处的为未知）
+cfip.xxxxxxxx.tk#OTC提供维护官方优选
+bestcf.onecf.eu.org#Mingyu提供维护官方优选
+cf.zhetengsha.eu.org#小一提供维护官方优选
+acjp2.cloudflarest.link#KJKKK维护官方优选
+achk.cloudflarest.link#KJKKK维护官方优选
+xn--b6gac.eu.org
+yx.887141.xyz
+8.889288.xyz
+cfip.1323123.xyz
+cf.515188.xyz
+cf-st.annoy.eu.org
+cf.0sm.com
+cf.877771.xyz
+cf.345673.xyz</p>
+<hr />
+<p>第三方维护的优选反代域名
+bestproxy.onecf.eu.org#Mingyu提供维护反代优选
+proxy.xxxxxxxx.tk#OTC提供维护反代优选
+47.243.237.160   proxy.xxxxxxxx.tk   ts.hpc.tw   edgetunnel.anycast.eu.org   bestproxy.onecf.eu.org   cdn-all.xn--b6gac.eu.org   cdn.xn--b6gac.eu.org</p>
+<hr />
+<p>第三方维护的优选官方IP的API
+<a href="https://ipdb.api.030101.xyz/?type=bestcf&amp;country=true">https://ipdb.api.030101.xyz/?type=bestcf&amp;country=true</a>
+<a href="https://addressesapi.090227.xyz/CloudFlareYes">https://addressesapi.090227.xyz/CloudFlareYes</a>
+<a href="https://addressesapi.090227.xyz/ip.164746.xyz">https://addressesapi.090227.xyz/ip.164746.xyz</a>
+第三方维护的优选反代IP的API
+<a href="https://ipdb.api.030101.xyz/?type=bestproxy&amp;country=true">https://ipdb.api.030101.xyz/?type=bestproxy&amp;country=true</a></p>
+<hr />
+<p>更多优选内容可自行查看
+<a href="https://cf.090227.xyz">https://cf.090227.xyz</a>
+<a href="https://ipdb.api.030101.xyz">https://ipdb.api.030101.xyz</a>
+<a href="https://monitor.gacjie.cn/page/cloudflare/cname.html">https://monitor.gacjie.cn/page/cloudflare/cname.html</a>
+<a href="https://ip.164746.xyz">https://ip.164746.xyz</a>
+<a href="https://stock.hostmonit.com/CloudFlareYes">https://stock.hostmonit.com/CloudFlareYes</a></p>
+<hr />
+<p>HTTP支持端口：80，8080，8880，2052，2082，2086，2095；
+HTTPS支持端口：443，2053，2083，2087，2096，8443。</p>
+<hr />
+<p>我精选的反代IP：
+47.76.37.57 #HK
+38.55.97.137 #HK
+162.159.152.2 #US
+162.159.153.2 #US
+172.67.33.106 #CT-HK
+162.159.135.170 #CM-HK
+<img src="https://github.com/user-attachments/assets/404f49fc-02af-4069-be19-640e2b827e38" alt="image" /></p>
+]]></content><link href="https://github.com/692/blog/issues/9"/><category term="博客"/><published>2024-10-16T02:38:14+00:00</published></entry><entry><id>https://github.com/692/blog/issues/8</id><title>这是标题</title><updated>2024-10-29T20:18:45.782618+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot;dfhgdr  &quot;
 date:       2024-10-15 12:00:00
@@ -9,8 +187,8 @@ catalog: true
 tags:
 - 博客</h2>
 <p>fdgrteh fdsghd</p>
-]]></content><link href="https://github.com/692/blog/issues/8"/><category term="博客"/><published>2024-10-15T14:06:16+00:00</published></entry><entry><id>https://github.com/692/blog/issues/4</id><title>这是啥啊啊啊</title><updated>2024-10-15T19:19:58.657643+00:00</updated><content type="html"><![CDATA[<p>123456789987654321</p>
-]]></content><link href="https://github.com/692/blog/issues/4"/><category term="博客"/><published>2024-10-15T10:05:52+00:00</published></entry><entry><id>https://github.com/692/blog/issues/3</id><title>文章标题</title><updated>2024-10-15T19:19:58.718291+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/8"/><category term="博客"/><published>2024-10-15T14:06:16+00:00</published></entry><entry><id>https://github.com/692/blog/issues/4</id><title>我是标题</title><updated>2024-10-29T20:18:45.878224+00:00</updated><content type="html"><![CDATA[<p>123456789987654321</p>
+]]></content><link href="https://github.com/692/blog/issues/4"/><category term="博客"/><published>2024-10-15T10:05:52+00:00</published></entry><entry><id>https://github.com/692/blog/issues/3</id><title>文章标题</title><updated>2024-10-29T20:18:45.955246+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
@@ -36,7 +214,7 @@ tags:
 文章内容
 文章内容
 文章内容</p>
-]]></content><link href="https://github.com/692/blog/issues/3"/><category term="博客"/><published>2024-10-15T09:59:05+00:00</published></entry><entry><id>https://github.com/692/blog/issues/2</id><title>测试文章</title><updated>2024-10-15T19:19:58.816145+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/3"/><category term="博客"/><published>2024-10-15T09:59:05+00:00</published></entry><entry><id>https://github.com/692/blog/issues/2</id><title>测试文章</title><updated>2024-10-29T20:18:46.044417+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot; &quot;
 date:       2024-10-15 12:00:00
@@ -48,7 +226,7 @@ tags:
 <p>撒旦发个疯狗二哥热水偶噶第三个人工费eg</p>
 <p>yijdfafd很快就应该发i时间
 受到广泛是给给</p>
-]]></content><link href="https://github.com/692/blog/issues/2"/><category term="博客"/><published>2024-10-15T09:38:17+00:00</published></entry><entry><id>https://github.com/692/blog/issues/1</id><title>GitHub 无法访问的方法</title><updated>2024-10-15T19:19:58.978752+00:00</updated><content type="html"><![CDATA[<hr />
+]]></content><link href="https://github.com/692/blog/issues/2"/><category term="博客"/><published>2024-10-15T09:38:17+00:00</published></entry><entry><id>https://github.com/692/blog/issues/1</id><title>GitHub 无法访问的方法</title><updated>2024-10-29T20:18:46.127015+00:00</updated><content type="html"><![CDATA[<hr />
 <h2>layout:     post
 title:      &quot;GitHub 无法访问的有效方法 &quot;
 date:       2024-10-15 12:00:00
